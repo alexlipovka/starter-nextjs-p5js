@@ -1,7 +1,7 @@
 # About
 
-> [!note] Based on tutorial by Aleksander Tidemann
-> [link](https://aleksati.net/posts/how-to-use-p5js-with-nextjs-in-2024)
+> [!NOTE]
+> Based on [tutorial](https://aleksati.net/posts/how-to-use-p5js-with-nextjs-in-2024) by Aleksander Tidemann
 
 This is a template project made up of [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with added and configured [p5.js](https://www.npmjs.com/package/p5).
 
