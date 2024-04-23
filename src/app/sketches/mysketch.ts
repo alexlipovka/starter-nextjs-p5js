@@ -1,4 +1,7 @@
 'use client';
+
+import { P5jsSketch } from "../types/global";
+
 //sketches/mysketch.ts
 export const mySketch: P5jsSketch = (p5, parentRef) => {
   let parentStyle: CSSStyleDeclaration;
@@ -22,7 +25,7 @@ export const mySketch: P5jsSketch = (p5, parentRef) => {
 		p5.line(0, 0, p5.width, p5.height);
 		p5.line(p5.width, 0, 0, p5.height);
 		p5.stroke(255, 0, 0);
-		p5.line(p5.mouseX, p5.mouseY, p5.width/2, p5.height/2)
+		p5.line(p5.mouseX, p5.mouseY, p5.width/2, p5.height/2);
   }
 
 	p5.windowResized = () => {
