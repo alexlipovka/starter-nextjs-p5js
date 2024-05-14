@@ -10,7 +10,7 @@ This is a template project made up of [Next.js](https://nextjs.org/) project boo
 First, bootstrap your project:
 
 ```bash
-npx create-next-app@latest nextjs-p5 --use-pnpm --example "https://github.com/alexlipovka/starter-nextjs-p5js.git"
+npx create-next-app@latest nextjs-p5 --use-pnpm --example "https://github.com/alexlipovka/starter-nextjs-p5js"
 ```
 
 Start dev server:
